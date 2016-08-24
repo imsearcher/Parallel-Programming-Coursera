@@ -1,0 +1,629 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /root/Parallel Programming/reductions/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+43 items
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/common/package$.class
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler$$anon$1.class
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler.class
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/common/package$TaskScheduler.class
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/common/package.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$4.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$5.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$1.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$2.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweepSequential$1.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$lineOfSight$1.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$upsweepSequential$1.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf$.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node$.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Tree.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$1.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$2.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$3.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$3.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$4.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$combinedThreshold$1.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$moneyThreshold$1.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$totalCoinsThreshold$1.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$1.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$2.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$3.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$4.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$1.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$2.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$.class
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner.class
+binary dependencies:
+11 items
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /root/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /root/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /root/Parallel Programming/reductions/src/main/scala/common/package.scala
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /root/Parallel Programming/reductions/src/main/scala/common/package.scala
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /root/Parallel Programming/reductions/src/main/scala/common/package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+43 items
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> common.package
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> common.package$
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> common.package$DefaultTaskScheduler
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> common.package$DefaultTaskScheduler$$anon$1
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> common.package$TaskScheduler
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$4
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$5
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweep$1
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweep$2
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweepSequential$1
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$lineOfSight$1
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$upsweepSequential$1
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Leaf
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Leaf$
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Node
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Node$
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Tree
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$1
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$2
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$3
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$3
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$4
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$combinedThreshold$1
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$moneyThreshold$1
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$totalCoinsThreshold$1
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$$anonfun$1
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$$anonfun$2
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$3
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$4
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$$anonfun$1
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$$anonfun$2
+used names:
+393 items
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> $anon
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> <byname>
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> <init>
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> ?0
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> A
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> Any
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> AnyRef
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> B
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> Boolean
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> C
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> D
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> DefaultTaskScheduler
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> DynamicVariable
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> ForkJoinPool
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> ForkJoinTask
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> Nothing
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> Object
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> RecursiveTask
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> T
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> T1
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> T2
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> T3
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> T4
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> TaskScheduler
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> Thread
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> Tuple2
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> Tuple4
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> Unit
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> _root_
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> body
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> common
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> concurrent
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> currentThread
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> execute
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> fork
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> forkJoinPool
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> isInstanceOf
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> java
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> join
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> lang
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> left
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> package
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> parallel
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> right
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> scala
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> schedule
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> scheduler
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> t
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> ta
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> task
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> taskA
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> taskB
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> taskC
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> taskD
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> tb
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> tc
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> td
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> util
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> value
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> %
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> &&
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> *
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> +
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> -
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> ->
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> /
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> <
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> <=
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> <byname>
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> <init>
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> <repeated>
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> ==
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> >
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> A
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> AbstractFunction2
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> AbstractFunction3
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Any
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> AnyRef
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Array
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> ArrowAssoc
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> B
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Boolean
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> CanBuildFrom
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> ClassTag
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Coll
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Default
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Double
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Float
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Function1
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Inclusive
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> IndexOutOfBoundsException
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> IndexedSeq
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Int
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Iterator
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Key
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> KeyValue
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> KeyWithDefault
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Leaf
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> LineOfSight
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> LineOfSightRunner
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> MatchError
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> MeasureBuilder
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Node
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> None
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Nothing
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Object
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Predef
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Product
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Range
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> RichInt
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> S
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> ScalaRunTime
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Serializable
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Some
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Statics
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> String
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> StringContext
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> T
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> T0
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> T1
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> T2
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> T3
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> That
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Tree
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Tuple2
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Tuple3
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> U
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Unit
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> Warmer
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> _1
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> _2
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> _hashCode
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> _toString
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> a
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> angle
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> apply
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> asInstanceOf
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> b
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> benchRuns
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> canBuildFrom
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> common
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> config
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> downsweep
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> downsweepSequential
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> end
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> eq
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> exec
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> finalizeHash
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> floatHash
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> foreach
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> from
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> i
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> immutable
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> input
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> intWrapper
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> isInstanceOf
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> l
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> left
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> length
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> lineOfSight
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> m
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> map
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> materializeClassTag
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> max
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> maxPrevious
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> maxWarmupRuns
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> measure
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> mid
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> minWarmupRuns
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> mix
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> ne
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> org
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> output
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> package
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> parLineOfSight
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> parallel
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> partime
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> println
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> r
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> r1
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> r2
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> right
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> runtime
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> s
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> scala
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> scalameter
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> seqtime
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> standardConfig
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> startingAngle
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> t
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> threshold
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> to
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> toArray
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> toString
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> tree
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> typedProductIterator
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> unchecked
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> until
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> update
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> upsweep
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> upsweepSequential
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> verbose
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> withWarmer
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> ||
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> *
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> +
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> -
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ->
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <=
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <byname>
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <init>
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <repeated>
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ==
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> A
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Any
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> AnyRef
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Array
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ArrowAssoc
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> B
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Boolean
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Default
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Double
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Function2
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Int
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Key
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> KeyValue
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> KeyWithDefault
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> List
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> MatchError
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> MeasureBuilder
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Nothing
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Object
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ParallelCountChange
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ParallelCountChangeRunner
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Predef
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> S
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> String
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> StringContext
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> T1
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> T2
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Threshold
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Tuple2
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Unit
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Warmer
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _1
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _2
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _root_
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> allCoins
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> amount
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> apply
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> benchRuns
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> coins
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> combinedThreshold
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> common
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> config
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> countChange
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> exec
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> fjtime
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> head
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> immutable
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> isEmpty
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> length
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> maxWarmupRuns
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> measure
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> measureParallelCountChange
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> minWarmupRuns
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> money
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> moneyThreshold
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ne
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> org
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> package
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parCountChange
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parResult
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parResult_=
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parallel
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> println
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> r1
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> r2
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> s
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> scala
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> scalameter
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqResult
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqResult_=
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqtime
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> standardConfig
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> startingMoney
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> tail
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> threshold
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> totalCoins
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> totalCoinsThreshold
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> unchecked
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> verbose
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> withWarmer
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ||
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> +
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> -
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ->
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <=
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <byname>
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <init>
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <repeated>
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ==
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> >=
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> A
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Any
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> AnyRef
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Array
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ArrayOps
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ArrowAssoc
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> B
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Boolean
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Char
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Default
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Double
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Int
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Key
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> KeyValue
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> KeyWithDefault
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> MatchError
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> MeasureBuilder
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Nothing
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Object
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ParallelParenthesesBalancing
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ParallelParenthesesBalancingRunner
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Predef
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> S
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> String
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> StringContext
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> T1
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> T2
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Tuple2
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Unit
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Warmer
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> _1
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> _2
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> annotation
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> arg1
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> arg2
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> balance
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> benchRuns
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> charArrayOps
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> chars
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> common
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> config
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> count
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> equals
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> exec
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> fjtime
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> from
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> head
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> idx
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> isEmpty
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> lcount
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> length
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> maxWarmupRuns
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> measure
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> mid
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> minWarmupRuns
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ne
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> org
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> package
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parBalance
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parResult
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parResult_=
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parallel
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> println
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> r1
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> r2
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> rcount
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reduce
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> runner
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> s
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> scala
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> scalameter
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqResult
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqResult_=
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqtime
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> slice
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> standardConfig
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> tail
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> threshold
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> traverse
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> unchecked
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> until
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> verbose
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> withWarmer
+product stamps:
+43 items
+/root/Parallel Programming/reductions/target/scala-2.11/classes/common/package$.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler$$anon$1.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/common/package$TaskScheduler.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/common/package.class -> lastModified(1471092115000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$4.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$5.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$1.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$2.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweepSequential$1.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$lineOfSight$1.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$upsweepSequential$1.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf$.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node$.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Tree.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSight.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$1.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$2.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$3.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner.class -> lastModified(1471182819000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$3.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$4.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$combinedThreshold$1.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$moneyThreshold$1.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$totalCoinsThreshold$1.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$1.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$2.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner.class -> lastModified(1471092116000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$3.class -> lastModified(1471099056000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$4.class -> lastModified(1471099056000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$.class -> lastModified(1471099056000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing.class -> lastModified(1471099056000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$1.class -> lastModified(1471099056000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$2.class -> lastModified(1471099056000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$.class -> lastModified(1471099056000)
+/root/Parallel Programming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner.class -> lastModified(1471099056000)
+source stamps:
+4 items
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> hash(19ffe96b09c84ba566e866c51bacad3b301b2c11)
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> hash(7d9d3b20012bff9124f28b56b0c3495b49bf1964)
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> hash(e294c2159e250e0606a0caaa2997b74027fabc18)
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> hash(7a3a9f004fc17e41ffd1daab0f7ed34272c3a712)
+binary stamps:
+3 items
+/root/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar -> lastModified(1405518657000)
+/root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1466781247000)
+class names:
+3 items
+/root/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar -> org.scalameter.MeasureBuilder
+/root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Serializable
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+4 items
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwso2RrgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw6466WnQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAM60dllnQABHdhaXRzcQB+AAxFEfvWdAAEdGFza3NxAH4ADFdaVZl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMLZS+xHQAFERlZmF1bHRUYXNrU2NoZWR1bGVyc3EAfgAM/pUpbXQABmVxdWFsc3NxAH4ADE48rut0AAxhc0luc3RhbmNlT2ZzcQB+AAxHd91ldAAMc3luY2hyb25pemVkc3EAfgAMBJ7vw3QADSRpc0luc3RhbmNlT2ZzcQB+AAzWCh9fdAAMZm9ya0pvaW5Qb29sc3EAfgAMNUekVHQACW5vdGlmeUFsbHNxAH4ADHLyoyJ0AAxpc0luc3RhbmNlT2ZzcQB+AAxPOtqWdAAGPGluaXQ+c3EAfgAMQiN1EHQACXNjaGVkdWxlcnNxAH4ADH8bLs50AAI9PXNxAH4ADM05Ry50AA1UYXNrU2NoZWR1bGVyc3EAfgAMHLnUSnQABWNsb25lc3EAfgAMwf8sL3QACHNjaGVkdWxlc3EAfgAMyRmNSnQACHRvU3RyaW5nc3EAfgAM+6VKv3QAAiE9c3EAfgAMiWCwDXQACGdldENsYXNzc3EAfgAM2TMwbXQAAm5lc3EAfgAMYlMrU3QAAmVxc3EAfgAMn/ZIHXQACHBhcmFsbGVsc3EAfgAMYOwlInQAAiMjc3EAfgAMyHKxL3QACGZpbmFsaXplc3EAfgAME2KubXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBnc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4AbHNxAH4AZ3VxAH4ASgAAAABzcQB+AGd1cQB+AEoAAAAAc3EAfgBndXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBrdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCEdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCFc3EAfgB4dAADQW55c3EAfgB8c3EAfgB/dXEAfgCCAAAAAnNxAH4AhHQABXNjYWxhcQB+AIt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVaD7AzMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9yb290L1BhcmFsbGVsIFByb2dyYW1taW5nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBn/6WsJyEulZuhmxRusrTswGywR
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwM6QFYAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA1c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwAQYIKHQABm5vdGlmeXNxAH4ADHCgTu50AAd1bmFwcGx5c3EAfgAMBnAByXQAB2N1cnJpZWRzcQB+AAz6ApWBdAAHdXBzd2VlcHNxAH4ADFqixPp0AAR3YWl0c3EAfgAMJ03O3nQADmNvcHkkZGVmYXVsdCQyc3EAfgAMmW6n/3QADSRhc0luc3RhbmNlT2ZzcQB+AAxawHVJdAAMcHJvZHVjdEFyaXR5c3EAfgAMGAZU+3QABmVxdWFsc3NxAH4ADBnyk0x0AAxhc0luc3RhbmNlT2ZzcQB+AAw4l8sedAAMc3luY2hyb25pemVkc3EAfgAMZriNtXQABGxlZnRzcQB+AAwnKtlGdAAEVHJlZXNxAH4ADBqtbeF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMXMM3RXQABE5vZGVzcQB+AAxn4/ImdAARTGluZU9mU2lnaHRSdW5uZXJzcQB+AAwox/cudAAGdHVwbGVkc3EAfgAMz+Sue3QAEXVwc3dlZXBTZXF1ZW50aWFsc3EAfgAMUTu3j3QAC2xpbmVPZlNpZ2h0c3EAfgAMACFjlXQACGNhbkVxdWFsc3EAfgAMQGYy7HQABG1haW5zcQB+AAzWZwKYdAAETGVhZnNxAH4ADAe0F2Z0AA1wcm9kdWN0UHJlZml4c3EAfgAMgjaShnQABXVudGlsc3EAfgAM07FxfnQACW5vdGlmeUFsbHNxAH4ADHBt5s90AAxpc0luc3RhbmNlT2ZzcQB+AAxyH408dAATZG93bnN3ZWVwU2VxdWVudGlhbHNxAH4ADIKqXgh0AAlkb3duc3dlZXBzcQB+AAz8VONUdAAGPGluaXQ+c3EAfgAM3clyn3QAA21heHNxAH4ADGUXyjt0AA5wYXJMaW5lT2ZTaWdodHNxAH4ADIjNNsJ0AAVhcHBseXNxAH4ADN/8tCd0AAI9PXNxAH4ADOmtLoZ0AAVjbG9uZXNxAH4ADMatnwF0AARmcm9tc3EAfgAMCpoPP3QABiRpbml0JHNxAH4ADCKlVyF0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADAhqrdp0AARjb3B5c3EAfgAMeVTZVXQACHRvU3RyaW5nc3EAfgAMv/IC9nQADnN0YW5kYXJkQ29uZmlnc3EAfgAM73h6NnQAAiE9c3EAfgAM5Cf0XnQAC0xpbmVPZlNpZ2h0c3EAfgAMrT30f3QACGdldENsYXNzc3EAfgAMbiNoW3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMy82q3HQAAm5lc3EAfgAMRg4b83QAAmVxc3EAfgAM2GC2YnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHzYjux0AAVyaWdodHNxAH4ADCwbJa10AAIjI3NxAH4ADBtvnYZ0AAhmaW5hbGl6ZXNxAH4ADE2fpkZ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADH7jZQF0AAhoYXNoQ29kZXNxAH4ADBxt4hZ0AAttYXhQcmV2aW91c3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABxyZWR1Y3Rpb25zLkxpbmVPZlNpZ2h0UnVubmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AIFMAAlpbmhlcml0ZWRxAH4AgUwAB3BhcmVudHNxAH4AgXhxAH4AnnNxAH4AmXVxAH4AfAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AgnEAfgCLdXEAfgCMAAAAAHNxAH4AjgBxAH4AN3VxAH4AkQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AnXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AuXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AKZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AJR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AK1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AJ1zcQB+AKx0AAVBcnJheXEAfgCydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AKx0AAZTdHJpbmdzcQB+ALBzcQB+ALN1cQB+ALYAAAADc3EAfgC4dAAEamF2YXNxAH4AuHQABGxhbmdxAH4AvXNxAH4AmXVxAH4AfAAAAABzcQB+AJl1cQB+ANEAAAACc3EAfgCsdAAGT2JqZWN0cQB+ANVzcQB+AKx0AANBbnlxAH4AsnNxAH4AfnEAfgCLdXEAfgCMAAAAAHNxAH4AjgB0ABZyZWR1Y3Rpb25zLkxpbmVPZlNpZ2h0dXEAfgCRAAAAAHEAfgCVdXEAfgCXAAAAAHNxAH4AmXEAfgCfc3EAfgCZc3EAfgChc3EAfgCZdXEAfgB8AAAAAHNxAH4AmXVxAH4AfAAAAABzcQB+AJl1cQB+ANEAAAACc3EAfgCscQB+AOFzcQB+ALBzcQB+ALN1cQB+ALYAAAADc3EAfgC4cQB+ANlzcQB+ALhxAH4A23EAfgC9c3EAfgCscQB+AONzcQB+ALBzcQB+ALN1cQB+ALYAAAACc3EAfgC4cQB+ALtxAH4AvXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACnJlZHVjdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVaJVB5kdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9yb290L1BhcmFsbGVsIFByb2dyYW1taW5nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFH2dOyABK/+RJPKLVrDDSVtJvxlk
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw1KJqQgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwB4FRMnQABm5vdGlmeXNxAH4ADAyCtWB0AAlUaHJlc2hvbGRzcQB+AAxUhWeMdAAEd2FpdHNxAH4ADBVAn250ABlQYXJhbGxlbENvdW50Q2hhbmdlUnVubmVyc3EAfgAMNEGsHHQADSRhc0luc3RhbmNlT2ZzcQB+AAxxakq8dAAGZXF1YWxzc3EAfgAMrD6SqXQAEWNvbWJpbmVkVGhyZXNob2xkc3EAfgAMY7UMl3QADm1vbmV5VGhyZXNob2xkc3EAfgAM/QZn+3QADGFzSW5zdGFuY2VPZnNxAH4ADGakKEN0AAxzeW5jaHJvbml6ZWRzcQB+AAw44PW7dAAJcGFyUmVzdWx0c3EAfgAMFFsshHQADSRpc0luc3RhbmNlT2ZzcQB+AAyJYXpydAATUGFyYWxsZWxDb3VudENoYW5nZXNxAH4ADK2p7ul0AARtYWluc3EAfgAMOItWgnQACW5vdGlmeUFsbHNxAH4ADGnqrTZ0AAxpc0luc3RhbmNlT2ZzcQB+AAxECg7+dAACPT1zcQB+AAzwFA7edAAFY2xvbmVzcQB+AAwDYkS1dAAIdG9TdHJpbmdzcQB+AAzeY0TQdAAOc3RhbmRhcmRDb25maWdzcQB+AAxUfAbjdAACIT1zcQB+AAwnV4xFdAAIZ2V0Q2xhc3NzcQB+AAwZP050dAAJc2VxUmVzdWx0c3EAfgAMJBfOu3QAC2NvdW50Q2hhbmdlc3EAfgAMBgbLzXQAAm5lc3EAfgAM2m2iznQAE3RvdGFsQ29pbnNUaHJlc2hvbGRzcQB+AAxakvp2dAAOcGFyQ291bnRDaGFuZ2VzcQB+AAz9d4NPdAACZXFzcQB+AAylBRthdAACIyNzcQB+AAzaj6K7dAAIZmluYWxpemVzcQB+AAwnr2XfdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAkcmVkdWN0aW9ucy5QYXJhbGxlbENvdW50Q2hhbmdlUnVubmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBtc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4AcnNxAH4AbXVxAH4AUAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AVnEAfgBfdXEAfgBgAAAAAHNxAH4AYgBxAH4AKXVxAH4AZQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBxdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AcXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHp4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGh0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHFzcQB+AIB0AAVBcnJheXEAfgCGdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIB0AAZTdHJpbmdzcQB+AIRzcQB+AId1cQB+AIoAAAADc3EAfgCMdAAEamF2YXNxAH4AjHQABGxhbmdxAH4AkXNxAH4AbXVxAH4AUAAAAABzcQB+AG11cQB+AKUAAAACc3EAfgCAdAAGT2JqZWN0cQB+AKlzcQB+AIB0AANBbnlxAH4AhnNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgB0AB5yZWR1Y3Rpb25zLlBhcmFsbGVsQ291bnRDaGFuZ2V1cQB+AGUAAAAAcQB+AGl1cQB+AGsAAAAAc3EAfgBtcQB+AHNzcQB+AG1zcQB+AHVzcQB+AG11cQB+AFAAAAAAc3EAfgBtdXEAfgBQAAAAAHNxAH4AbXVxAH4ApQAAAAJzcQB+AIBxAH4AtXNxAH4AhHNxAH4Ah3VxAH4AigAAAANzcQB+AIxxAH4ArXNxAH4AjHEAfgCvcQB+AJFzcQB+AIBxAH4At3NxAH4AhHNxAH4Ah3VxAH4AigAAAAJzcQB+AIxxAH4Aj3EAfgCRdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKcmVkdWN0aW9uc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVoPsDMx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA/L3Jvb3QvUGFyYWxsZWwgUHJvZ3JhbW1pbmcvcmVkdWN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU4pTCFZ4lDgYGoMqqKZe3QCf6vBg=
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwP+HLBQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwierQkXQABm5vdGlmeXNxAH4ADI9BLVp0AAR3YWl0c3EAfgAMfOt8KnQADSRhc0luc3RhbmNlT2ZzcQB+AAwapKgYdAAGZXF1YWxzc3EAfgAMjFeu13QADGFzSW5zdGFuY2VPZnNxAH4ADE3e/hN0AAxzeW5jaHJvbml6ZWRzcQB+AAz5Ay9SdAAJcGFyUmVzdWx0c3EAfgAM2VETgnQADSRpc0luc3RhbmNlT2ZzcQB+AAwMnYC7dAAGcnVubmVyc3EAfgAMcp33wXQACnBhckJhbGFuY2VzcQB+AAzv7mmrdAAHYmFsYW5jZXNxAH4ADCvSvOF0AARtYWluc3EAfgAMR6amLHQACW5vdGlmeUFsbHNxAH4ADBDfvod0AAxpc0luc3RhbmNlT2ZzcQB+AAxhBDpjdAACPT1zcQB+AAyEOgwpdAAFY2xvbmVzcQB+AAxai5Z7dAAiUGFyYWxsZWxQYXJlbnRoZXNlc0JhbGFuY2luZ1J1bm5lcnNxAH4ADIOTcMF0AAh0b1N0cmluZ3NxAH4ADJOl2XJ0AA5zdGFuZGFyZENvbmZpZ3NxAH4ADDr9sv10AAIhPXNxAH4ADG/MgFF0AAhnZXRDbGFzc3NxAH4ADK6jVih0AAlzZXFSZXN1bHRzcQB+AAzs8uV2dAACbmVzcQB+AAwi1zhVdAACZXFzcQB+AAxzYPaDdAACIyNzcQB+AAyFu2cjdAAIZmluYWxpemVzcQB+AAyuxBFcdAAIaGFzaENvZGVzcQB+AAxFotgwdAAcUGFyYWxsZWxQYXJlbnRoZXNlc0JhbGFuY2luZ3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AC1yZWR1Y3Rpb25zLlBhcmFsbGVsUGFyZW50aGVzZXNCYWxhbmNpbmdSdW5uZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AT0wACWluaGVyaXRlZHEAfgBPTAAHcGFyZW50c3EAfgBPeHEAfgBsc3EAfgBndXEAfgBKAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBQcQB+AFl1cQB+AFoAAAAAc3EAfgBcAHEAfgAldXEAfgBfAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGt0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCHdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AdHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AYnQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ae1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Aa3NxAH4AenQABUFycmF5cQB+AIB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AenQABlN0cmluZ3NxAH4AfnNxAH4AgXVxAH4AhAAAAANzcQB+AIZ0AARqYXZhc3EAfgCGdAAEbGFuZ3EAfgCLc3EAfgBndXEAfgBKAAAAAHNxAH4AZ3VxAH4AnwAAAAJzcQB+AHp0AAZPYmplY3RxAH4Ao3NxAH4AenQAA0FueXEAfgCAc3EAfgBMcQB+AFl1cQB+AFoAAAAAc3EAfgBcAHQAJ3JlZHVjdGlvbnMuUGFyYWxsZWxQYXJlbnRoZXNlc0JhbGFuY2luZ3VxAH4AXwAAAABxAH4AY3VxAH4AZQAAAABzcQB+AGdxAH4AbXNxAH4AZ3NxAH4Ab3NxAH4AZ3VxAH4ASgAAAABzcQB+AGd1cQB+AEoAAAAAc3EAfgBndXEAfgCfAAAAAnNxAH4AenEAfgCvc3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnEAfgCnc3EAfgCGcQB+AKlxAH4Ai3NxAH4AenEAfgCxc3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnEAfgCJcQB+AIt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApyZWR1Y3Rpb25zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWhFYErHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD8vcm9vdC9QYXJhbGxlbCBQcm9ncmFtbWluZy9yZWR1Y3Rpb25zL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR6Op8AT8F+Qf/R2qsPftNCcsOnEg==
+external apis:
+0 items
+source infos:
+4 items
+/root/Parallel Programming/reductions/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/root/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala -> 
+AAAAAAAAAAA=
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> 
+AAAAAAAAAAA=
+/root/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVoPsDMx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9yb290L1BhcmFsbGVsIFByb2dyYW1taW5nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVoQgkJp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9yb290L1BhcmFsbGVsIFByb2dyYW1taW5nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVoQlet91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9yb290L1BhcmFsbGVsIFByb2dyYW1taW5nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVoQqjTl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9yb290L1BhcmFsbGVsIFByb2dyYW1taW5nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVoRWBKx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9yb290L1BhcmFsbGVsIFByb2dyYW1taW5nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVolUHmR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9yb290L1BhcmFsbGVsIFByb2dyYW1taW5nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
